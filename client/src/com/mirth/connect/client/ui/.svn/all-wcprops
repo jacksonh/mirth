@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5860/trunk/client/src/com/mirth/connect/client/ui
+END
+TextFieldCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/TextFieldCellEditor.java
+END
+ReprocessMessagesDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/ReprocessMessagesDialog.form
+END
+AbstractSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5228/trunk/client/src/com/mirth/connect/client/ui/AbstractSettingsPanel.java
+END
+SettingsPanelServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/SettingsPanelServer.java
+END
+CenterCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/CenterCellRenderer.java
+END
+CodeTemplatePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/CodeTemplatePanel.form
+END
+AlertPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/AlertPanel.form
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5765/trunk/client/src/com/mirth/connect/client/ui/ErrorDialog.java
+END
+ImageCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5327/trunk/client/src/com/mirth/connect/client/ui/ImageCellRenderer.java
+END
+UIConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5686/trunk/client/src/com/mirth/connect/client/ui/UIConstants.java
+END
+ChangePasswordDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5535/trunk/client/src/com/mirth/connect/client/ui/ChangePasswordDialog.form
+END
+GlobalScriptsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4998/trunk/client/src/com/mirth/connect/client/ui/GlobalScriptsPanel.form
+END
+ChannelWizard.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4785/trunk/client/src/com/mirth/connect/client/ui/ChannelWizard.form
+END
+FindRplDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/FindRplDialog.java
+END
+NumberCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5265/trunk/client/src/com/mirth/connect/client/ui/NumberCellRenderer.java
+END
+SettingsPanelAdministrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5335/trunk/client/src/com/mirth/connect/client/ui/SettingsPanelAdministrator.java
+END
+PlatformUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5137/trunk/client/src/com/mirth/connect/client/ui/PlatformUI.java
+END
+ScriptPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/ScriptPanel.java
+END
+CodeTemplateTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/CodeTemplateTableCellEditor.java
+END
+RefreshTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/RefreshTableModel.java
+END
+ChannelPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5711/trunk/client/src/com/mirth/connect/client/ui/ChannelPanel.java
+END
+SettingsPanelServer.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5674/trunk/client/src/com/mirth/connect/client/ui/SettingsPanelServer.form
+END
+ErrorDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5330/trunk/client/src/com/mirth/connect/client/ui/ErrorDialog.form
+END
+AuthorizationControllerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5433/trunk/client/src/com/mirth/connect/client/ui/AuthorizationControllerFactory.java
+END
+UserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5860/trunk/client/src/com/mirth/connect/client/ui/UserDialog.java
+END
+UserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/UserPanel.java
+END
+BareBonesBrowserLaunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/BareBonesBrowserLaunch.java
+END
+FindRplDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/FindRplDialog.form
+END
+DestinationTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/DestinationTableCellEditor.java
+END
+SettingsPanelAdministrator.form
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5335/trunk/client/src/com/mirth/connect/client/ui/SettingsPanelAdministrator.form
+END
+SettingsPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5330/trunk/client/src/com/mirth/connect/client/ui/SettingsPane.java
+END
+UserEditPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5553/trunk/client/src/com/mirth/connect/client/ui/UserEditPanel.java
+END
+ScriptPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/ScriptPanel.form
+END
+MirthTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/MirthTheme.java
+END
+StatusUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/StatusUpdater.java
+END
+ChannelPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5411/trunk/client/src/com/mirth/connect/client/ui/ChannelPanel.form
+END
+TreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/TreePanel.java
+END
+TreeNodeFlavor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/TreeNodeFlavor.java
+END
+UserPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/UserPanel.form
+END
+UserDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4786/trunk/client/src/com/mirth/connect/client/ui/UserDialog.form
+END
+NumberCellComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5161/trunk/client/src/com/mirth/connect/client/ui/NumberCellComparator.java
+END
+FunctionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4829/trunk/client/src/com/mirth/connect/client/ui/FunctionList.java
+END
+MirthHeadingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4785/trunk/client/src/com/mirth/connect/client/ui/MirthHeadingPanel.java
+END
+ViewContentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/ViewContentDialog.java
+END
+UserEditPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5553/trunk/client/src/com/mirth/connect/client/ui/UserEditPanel.form
+END
+SettingsPane.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5205/trunk/client/src/com/mirth/connect/client/ui/SettingsPane.form
+END
+RuleDropData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/RuleDropData.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5666/trunk/client/src/com/mirth/connect/client/ui/LoginPanel.java
+END
+FirstLoginDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5860/trunk/client/src/com/mirth/connect/client/ui/FirstLoginDialog.java
+END
+TreePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/TreePanel.form
+END
+FunctionList.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4829/trunk/client/src/com/mirth/connect/client/ui/FunctionList.form
+END
+DateCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5170/trunk/client/src/com/mirth/connect/client/ui/DateCellRenderer.java
+END
+AuthorizationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5140/trunk/client/src/com/mirth/connect/client/ui/AuthorizationController.java
+END
+MirthHeadingPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/MirthHeadingPanel.form
+END
+CharsetEncodingInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/CharsetEncodingInformation.java
+END
+ViewContentDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/ViewContentDialog.form
+END
+DashboardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/DashboardPanel.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5210/trunk/client/src/com/mirth/connect/client/ui/StatusBar.java
+END
+DefaultAuthorizationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5140/trunk/client/src/com/mirth/connect/client/ui/DefaultAuthorizationController.java
+END
+LoginPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5666/trunk/client/src/com/mirth/connect/client/ui/LoginPanel.form
+END
+VariableTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/VariableTransferable.java
+END
+DataTypesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/DataTypesDialog.java
+END
+AboutMirth.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5662/trunk/client/src/com/mirth/connect/client/ui/AboutMirth.java
+END
+VariableListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5091/trunk/client/src/com/mirth/connect/client/ui/VariableListHandler.java
+END
+VariableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/VariableList.java
+END
+FirstLoginDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5146/trunk/client/src/com/mirth/connect/client/ui/FirstLoginDialog.form
+END
+AlertTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/AlertTableCellEditor.java
+END
+BeanBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/BeanBinder.java
+END
+ChannelSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5797/trunk/client/src/com/mirth/connect/client/ui/ChannelSetup.java
+END
+DashboardPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/DashboardPanel.form
+END
+StatusBar.form
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5210/trunk/client/src/com/mirth/connect/client/ui/StatusBar.form
+END
+TemplatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5841/trunk/client/src/com/mirth/connect/client/ui/TemplatePanel.java
+END
+DeleteStatisticsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4785/trunk/client/src/com/mirth/connect/client/ui/DeleteStatisticsDialog.java
+END
+AboutMirth.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4785/trunk/client/src/com/mirth/connect/client/ui/AboutMirth.form
+END
+DataTypesDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/DataTypesDialog.form
+END
+MapperDropData.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/MapperDropData.java
+END
+VariableList.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/VariableList.form
+END
+CustomErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5765/trunk/client/src/com/mirth/connect/client/ui/CustomErrorDialog.java
+END
+LoadedExtensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5606/trunk/client/src/com/mirth/connect/client/ui/LoadedExtensions.java
+END
+CellData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/CellData.java
+END
+OSXAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5664/trunk/client/src/com/mirth/connect/client/ui/OSXAdapter.java
+END
+MessageBuilderDropData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/MessageBuilderDropData.java
+END
+EditMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5841/trunk/client/src/com/mirth/connect/client/ui/EditMessageDialog.java
+END
+ChannelSetup.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5797/trunk/client/src/com/mirth/connect/client/ui/ChannelSetup.form
+END
+ReprocessMessagesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5836/trunk/client/src/com/mirth/connect/client/ui/ReprocessMessagesDialog.java
+END
+TemplatePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/TemplatePanel.form
+END
+DeleteStatisticsDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4785/trunk/client/src/com/mirth/connect/client/ui/DeleteStatisticsDialog.form
+END
+UserDialogInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/UserDialogInterface.java
+END
+Mirth.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5765/trunk/client/src/com/mirth/connect/client/ui/Mirth.java
+END
+CodeTemplatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5713/trunk/client/src/com/mirth/connect/client/ui/CodeTemplatePanel.java
+END
+CustomErrorDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/CustomErrorDialog.form
+END
+AlertPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5822/trunk/client/src/com/mirth/connect/client/ui/AlertPanel.java
+END
+GlobalScriptsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5007/trunk/client/src/com/mirth/connect/client/ui/GlobalScriptsPanel.java
+END
+ChangePasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5765/trunk/client/src/com/mirth/connect/client/ui/ChangePasswordDialog.java
+END
+TreeTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5714/trunk/client/src/com/mirth/connect/client/ui/TreeTransferable.java
+END
+MirthFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5557/trunk/client/src/com/mirth/connect/client/ui/MirthFileFilter.java
+END
+ChannelWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/ChannelWizard.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5860/trunk/client/src/com/mirth/connect/client/ui/Frame.java
+END
+EditMessageDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5839/trunk/client/src/com/mirth/connect/client/ui/EditMessageDialog.form
+END

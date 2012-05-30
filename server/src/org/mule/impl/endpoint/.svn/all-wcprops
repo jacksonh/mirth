@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5377/trunk/server/src/org/mule/impl/endpoint
+END
+MuleEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5065/trunk/server/src/org/mule/impl/endpoint/MuleEndpoint.java
+END
+MuleEndpointURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4585/trunk/server/src/org/mule/impl/endpoint/MuleEndpointURI.java
+END

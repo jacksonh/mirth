@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5827/trunk/command/src/com/mirth/connect/cli
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5490/trunk/command/src/com/mirth/connect/cli/Token.java
+END
+Quit.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4798/trunk/command/src/com/mirth/connect/cli/Quit.java
+END
+CommandLineInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5827/trunk/command/src/com/mirth/connect/cli/CommandLineInterface.java
+END
+StringToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4798/trunk/command/src/com/mirth/connect/cli/StringToken.java
+END
+IntToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4798/trunk/command/src/com/mirth/connect/cli/IntToken.java
+END

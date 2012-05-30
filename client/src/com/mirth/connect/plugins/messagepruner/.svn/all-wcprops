@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/plugins/messagepruner
+END
+MessagePrunerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5421/trunk/client/src/com/mirth/connect/plugins/messagepruner/MessagePrunerClient.java
+END
+MessagePrunerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/plugins/messagepruner/MessagePrunerPanel.java
+END
+MessagePrunerPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5582/trunk/client/src/com/mirth/connect/plugins/messagepruner/MessagePrunerPanel.form
+END

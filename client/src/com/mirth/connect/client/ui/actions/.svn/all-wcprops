@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5377/trunk/client/src/com/mirth/connect/client/ui/actions
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/DeleteAction.java
+END
+SnippetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/SnippetAction.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/UndoAction.java
+END
+SelectAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/SelectAllAction.java
+END
+RedoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/RedoAction.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/CopyAction.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/CutAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/PasteAction.java
+END
+FindAndReplaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/FindAndReplaceAction.java
+END
+ShowLineEndingsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/actions/ShowLineEndingsAction.java
+END

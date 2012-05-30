@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5870/trunk/server/src/com/mirth/connect/connectors/smtp
+END
+SmtpConnectorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5870/trunk/server/src/com/mirth/connect/connectors/smtp/SmtpConnectorService.java
+END
+SmtpMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5870/trunk/server/src/com/mirth/connect/connectors/smtp/SmtpMessageDispatcher.java
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/smtp/destination.xml
+END
+SmtpSenderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5676/trunk/server/src/com/mirth/connect/connectors/smtp/SmtpSenderProperties.java
+END
+SmtpMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5548/trunk/server/src/com/mirth/connect/connectors/smtp/SmtpMessageDispatcherFactory.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5548/trunk/server/src/com/mirth/connect/connectors/smtp/Attachment.java
+END
+SmtpConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5870/trunk/server/src/com/mirth/connect/connectors/smtp/SmtpConnector.java
+END

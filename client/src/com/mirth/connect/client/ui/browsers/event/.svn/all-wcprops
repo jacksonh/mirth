@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/browsers/event
+END
+EventBrowserAdvancedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5316/trunk/client/src/com/mirth/connect/client/ui/browsers/event/EventBrowserAdvancedFilter.java
+END
+EventBrowserAdvancedFilter.form
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5316/trunk/client/src/com/mirth/connect/client/ui/browsers/event/EventBrowserAdvancedFilter.form
+END
+EventBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/browsers/event/EventBrowser.java
+END
+EventBrowser.form
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5352/trunk/client/src/com/mirth/connect/client/ui/browsers/event/EventBrowser.form
+END

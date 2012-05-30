@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5721/trunk/uima/src/com/mirth/connect/plugins/uima
+END
+UimaConfigurationClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5628/trunk/uima/src/com/mirth/connect/plugins/uima/UimaConfigurationClient.java
+END
+UimaConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5721/trunk/uima/src/com/mirth/connect/plugins/uima/UimaConfigurationPanel.java
+END
+UimaConfigurationPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5628/trunk/uima/src/com/mirth/connect/plugins/uima/UimaConfigurationPanel.form
+END
+UimaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5641/trunk/uima/src/com/mirth/connect/plugins/uima/UimaService.java
+END

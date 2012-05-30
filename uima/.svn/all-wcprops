@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5721/trunk/uima
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5642/trunk/uima/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5627/trunk/uima/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5641/trunk/uima/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5639/trunk/uima/build.xml
+END

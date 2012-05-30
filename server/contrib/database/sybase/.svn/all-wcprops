@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5377/trunk/server/contrib/database/sybase
+END
+sybase-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-user.xml
+END
+sybase-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-event.xml
+END
+sybase-SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-SqlMapConfig.xml
+END
+sybase-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-message.xml
+END
+sybase-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3941/trunk/server/contrib/database/sybase/sybase-script.xml
+END
+sybase-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-alert.xml
+END
+sybase-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-configuration.xml
+END
+sybase-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-statistic.xml
+END
+sybase-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4683/trunk/server/contrib/database/sybase/sybase-channel.xml
+END
+sybase-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3941/trunk/server/contrib/database/sybase/sybase-template.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/pdf/events
+END
+PdfPTableEventForwarder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/events/PdfPTableEventForwarder.java
+END
+PdfPageEventForwarder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/events/PdfPageEventForwarder.java
+END
+PdfPCellEventForwarder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/events/PdfPCellEventForwarder.java
+END
+FieldPositioningEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/events/FieldPositioningEvents.java
+END
+IndexEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/events/IndexEvents.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5432/trunk/client/src/com/mirth/connect/plugins/serverlog
+END
+ViewServerLogContentDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/plugins/serverlog/ViewServerLogContentDialog.form
+END
+ServerLogTextPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/plugins/serverlog/ServerLogTextPane.java
+END
+ServerLogClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5432/trunk/client/src/com/mirth/connect/plugins/serverlog/ServerLogClient.java
+END
+ServerLogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5327/trunk/client/src/com/mirth/connect/plugins/serverlog/ServerLogPanel.java
+END
+ServerLogPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/plugins/serverlog/ServerLogPanel.form
+END
+ViewServerLogContentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/plugins/serverlog/ViewServerLogContentDialog.java
+END

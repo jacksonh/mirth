@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5377/trunk/client/src/com/mirth/connect/client/ui/beans
+END
+HL7Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/HL7Properties.java
+END
+DICOMProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/DICOMProperties.java
+END
+HL7PropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/HL7PropertiesBeanInfo.java
+END
+DICOMPropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/DICOMPropertiesBeanInfo.java
+END
+DelimitedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/DelimitedProperties.java
+END
+XMLProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/XMLProperties.java
+END
+EDIProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/EDIProperties.java
+END
+DelimitedPropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/DelimitedPropertiesBeanInfo.java
+END
+XMLPropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/XMLPropertiesBeanInfo.java
+END
+EDIPropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/EDIPropertiesBeanInfo.java
+END
+HL7V3Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/HL7V3Properties.java
+END
+NCPDPProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/NCPDPProperties.java
+END
+HL7V3PropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/HL7V3PropertiesBeanInfo.java
+END
+NCPDPPropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/NCPDPPropertiesBeanInfo.java
+END
+X12Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/X12Properties.java
+END
+X12PropertiesBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/beans/X12PropertiesBeanInfo.java
+END

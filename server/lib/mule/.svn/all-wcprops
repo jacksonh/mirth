@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5377/trunk/server/lib/mule
+END
+axis14-commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2465/trunk/server/lib/mule/axis14-commons-discovery-0.2.jar
+END
+geronimo-spec-j2ee-management-1.0-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/725/trunk/server/lib/mule/geronimo-spec-j2ee-management-1.0-rc4.jar
+END
+geronimo-spec-jta-1.0.1B-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/725/trunk/server/lib/mule/geronimo-spec-jta-1.0.1B-rc4.jar
+END
+ognl-2.6.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/725/trunk/server/lib/mule/ognl-2.6.7.jar
+END
+geronimo-spec-ejb-2.1-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/725/trunk/server/lib/mule/geronimo-spec-ejb-2.1-rc4.jar
+END
+geronimo-spec-j2ee-connector-1.5-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/725/trunk/server/lib/mule/geronimo-spec-j2ee-connector-1.5-rc4.jar
+END
+dom4j-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/server/lib/mule/dom4j-1.4.jar
+END
+oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1145/trunk/server/lib/mule/oro.jar
+END
+mule-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1763/trunk/server/lib/mule/mule-1.2.jar
+END
+activeio-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/725/trunk/server/lib/mule/activeio-2.1.jar
+END
+antlr-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1145/trunk/server/lib/mule/antlr-runtime.jar
+END
+geronimo-spec-jms-1.1-rc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/725/trunk/server/lib/mule/geronimo-spec-jms-1.1-rc4.jar
+END
+jug-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/725/trunk/server/lib/mule/jug-1.0.3.jar
+END

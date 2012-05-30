@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5627/trunk/uima/lib
+END
+backport-util-concurrent-Java60-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5627/trunk/uima/lib/backport-util-concurrent-Java60-3.1.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5627/trunk/uima/lib/commons-collections-3.2.1.jar
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5627/trunk/uima/lib/commons-pool-1.5.5.jar
+END
+geronimo-jms_1.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5627/trunk/uima/lib/geronimo-jms_1.1_spec-1.0.jar
+END
+uimaj-as-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5627/trunk/uima/lib/uimaj-as-core.jar
+END
+uimaj-as-activemq.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5627/trunk/uima/lib/uimaj-as-activemq.jar
+END
+uimaj-as-jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5627/trunk/uima/lib/uimaj-as-jms.jar
+END
+xbean.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5627/trunk/uima/lib/xbean.jar
+END
+geronimo-j2ee-management_1.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5627/trunk/uima/lib/geronimo-j2ee-management_1.0_spec-1.0.jar
+END
+uima-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5627/trunk/uima/lib/uima-core.jar
+END
+activemq-core-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5627/trunk/uima/lib/activemq-core-5.4.2.jar
+END
+spring-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5627/trunk/uima/lib/spring-2.0.6.jar
+END

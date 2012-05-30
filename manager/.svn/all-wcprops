@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/5841/trunk/manager
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5841/trunk/manager/.classpath
+END
+Mirth Connect Manager.launch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4683/trunk/manager/Mirth%20Connect%20Manager.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4458/trunk/manager/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5185/trunk/manager/build.properties
+END
+ant-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5841/trunk/manager/ant-build.xml
+END

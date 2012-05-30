@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5697/trunk/server/lib/extensions/ws
+END
+soapui-xmlbeans-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5697/trunk/server/lib/extensions/ws/soapui-xmlbeans-4.0.1.jar
+END
+wsdl4j-1.6.2-fixed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5249/trunk/server/lib/extensions/ws/wsdl4j-1.6.2-fixed.jar
+END
+policy-xmlbeans-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5273/trunk/server/lib/extensions/ws/policy-xmlbeans-1.5.jar
+END
+xbean-fixed-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5249/trunk/server/lib/extensions/ws/xbean-fixed-2.4.0.jar
+END
+soapui-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5697/trunk/server/lib/extensions/ws/soapui-4.0.1.jar
+END

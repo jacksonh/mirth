@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5377/trunk/server/src/com/mirth/connect/model/x12
+END
+ValidCodesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/ValidCodesType.java
+END
+X12Vocabulary.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/X12Vocabulary.java
+END
+CompositeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/CompositeType.java
+END
+SegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/SegmentType.java
+END
+UsageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/UsageType.java
+END
+TransactionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/TransactionType.java
+END
+FormatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/FormatType.java
+END
+X12Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/X12Test.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/DataType.java
+END
+ElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/ElementType.java
+END
+LoopType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/LoopType.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/x12/ObjectFactory.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5819/trunk/client/src/com/mirth/connect/connectors/http
+END
+HttpSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5819/trunk/client/src/com/mirth/connect/connectors/http/HttpSender.java
+END
+HttpSender.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5819/trunk/client/src/com/mirth/connect/connectors/http/HttpSender.form
+END
+HttpListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5819/trunk/client/src/com/mirth/connect/connectors/http/HttpListener.java
+END
+HttpListener.form
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5819/trunk/client/src/com/mirth/connect/connectors/http/HttpListener.form
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5751/trunk/server/dbconf/sqlserver
+END
+sqlserver-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5533/trunk/server/dbconf/sqlserver/sqlserver-user.xml
+END
+sqlserver-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5359/trunk/server/dbconf/sqlserver/sqlserver-event.xml
+END
+sqlserver-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5750/trunk/server/dbconf/sqlserver/sqlserver-database.sql
+END
+sqlserver-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5684/trunk/server/dbconf/sqlserver/sqlserver-message.xml
+END
+sqlserver-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5368/trunk/server/dbconf/sqlserver/sqlserver-script.xml
+END
+sqlserver-codeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5361/trunk/server/dbconf/sqlserver/sqlserver-codeTemplate.xml
+END
+sqlserver-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5341/trunk/server/dbconf/sqlserver/sqlserver-alert.xml
+END
+sqlserver-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5751/trunk/server/dbconf/sqlserver/sqlserver-configuration.xml
+END
+sqlserver-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5341/trunk/server/dbconf/sqlserver/sqlserver-statistic.xml
+END
+sqlserver-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5341/trunk/server/dbconf/sqlserver/sqlserver-channel.xml
+END
+sqlserver-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5341/trunk/server/dbconf/sqlserver/sqlserver-template.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5680/trunk/server/src/com/mirth/connect/server/logging
+END
+JuliToLog4jHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5680/trunk/server/src/com/mirth/connect/server/logging/JuliToLog4jHandler.java
+END
+JuliToLog4JService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5668/trunk/server/src/com/mirth/connect/server/logging/JuliToLog4JService.java
+END
+LogOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5668/trunk/server/src/com/mirth/connect/server/logging/LogOutputStream.java
+END

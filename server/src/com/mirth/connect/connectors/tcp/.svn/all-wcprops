@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/tcp
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/tcp/source.xml
+END
+TcpMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5841/trunk/server/src/com/mirth/connect/connectors/tcp/TcpMessageReceiver.java
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/tcp/destination.xml
+END
+TcpConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5665/trunk/server/src/com/mirth/connect/connectors/tcp/TcpConnector.java
+END
+TcpConnectorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/tcp/TcpConnectorService.java
+END
+TcpMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5841/trunk/server/src/com/mirth/connect/connectors/tcp/TcpMessageDispatcher.java
+END
+TCPSenderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5665/trunk/server/src/com/mirth/connect/connectors/tcp/TCPSenderProperties.java
+END
+TcpProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/tcp/TcpProtocol.java
+END
+StateAwareSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5654/trunk/server/src/com/mirth/connect/connectors/tcp/StateAwareSocket.java
+END
+TCPListenerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5665/trunk/server/src/com/mirth/connect/connectors/tcp/TCPListenerProperties.java
+END
+TcpMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/tcp/TcpMessageDispatcherFactory.java
+END
+TcpMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/tcp/TcpMessageAdapter.java
+END

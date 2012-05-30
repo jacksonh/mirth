@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/pdf/hyphenation
+END
+CharVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/CharVector.java
+END
+Hyphenator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/Hyphenator.java
+END
+SimplePatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/SimplePatternParser.java
+END
+TernaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/TernaryTree.java
+END
+HyphenationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/HyphenationException.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/ByteVector.java
+END
+Hyphenation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/Hyphenation.java
+END
+HyphenationTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/HyphenationTree.java
+END
+PatternConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/PatternConsumer.java
+END
+Hyphen.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/hyphenation/Hyphen.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5377/trunk/server/src/com/mirth/connect/connectors/file/transformers
+END
+FileToByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/file/transformers/FileToByteArray.java
+END
+FileToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/file/transformers/FileToString.java
+END
+ObjectToFileMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/file/transformers/ObjectToFileMessage.java
+END

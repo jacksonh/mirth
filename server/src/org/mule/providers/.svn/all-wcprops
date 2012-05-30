@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5744/trunk/server/src/org/mule/providers
+END
+AbstractMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4564/trunk/server/src/org/mule/providers/AbstractMessageDispatcher.java
+END
+VariableFilenameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4966/trunk/server/src/org/mule/providers/VariableFilenameParser.java
+END
+TemplateValueReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5744/trunk/server/src/org/mule/providers/TemplateValueReplacer.java
+END
+AbstractServiceEnabledConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4564/trunk/server/src/org/mule/providers/AbstractServiceEnabledConnector.java
+END
+QueueEnabledConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4848/trunk/server/src/org/mule/providers/QueueEnabledConnector.java
+END
+ParameterValueReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/org/mule/providers/ParameterValueReplacer.java
+END
+QueueEnabledMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/server/src/org/mule/providers/QueueEnabledMessageDispatcher.java
+END
+AbstractMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4564/trunk/server/src/org/mule/providers/AbstractMessageReceiver.java
+END
+AbstractConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4683/trunk/server/src/org/mule/providers/AbstractConnector.java
+END
+PollingMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/org/mule/providers/PollingMessageReceiver.java
+END

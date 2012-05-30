@@ -1,0 +1,17 @@
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 10
+svn:ignore
+V 244
+Graphical Mapper Transformer Step.xml
+consoleconnectorstatus
+Console Connector Status Monitor Plugin.xml
+extendedhl7vocab
+Extended HL7 Vocabulary.xml
+Sample Dashboard Column Plugin.xml
+ExtensionParser.xml
+ExtensionRepositoryParser.java
+
+END

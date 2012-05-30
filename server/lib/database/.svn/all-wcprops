@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5377/trunk/server/lib/database
+END
+ojdbc6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5141/trunk/server/lib/database/ojdbc6.jar
+END
+mysql-connector-java-5.0.8-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4627/trunk/server/lib/database/mysql-connector-java-5.0.8-bin.jar
+END
+jtds-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4627/trunk/server/lib/database/jtds-1.2.jar
+END
+postgresql-9.0-801.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5079/trunk/server/lib/database/postgresql-9.0-801.jdbc4.jar
+END
+sqlitejdbc-v056.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4988/trunk/server/lib/database/sqlitejdbc-v056.jar
+END

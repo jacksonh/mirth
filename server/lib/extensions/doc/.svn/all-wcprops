@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5434/trunk/server/lib/extensions/doc
+END
+core-renderer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3815/trunk/server/lib/extensions/doc/core-renderer.jar
+END
+iText-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3958/trunk/server/lib/extensions/doc/iText-2.0.8.jar
+END

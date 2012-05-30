@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5377/trunk/command/conf
+END
+mirth-cli-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5018/trunk/command/conf/mirth-cli-config.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4865/trunk/command/conf/log4j.properties
+END

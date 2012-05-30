@@ -1,0 +1,12 @@
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 10
+svn:ignore
+V 70
+mirth-client-core.jar
+mirth-crypto.jar
+not-yet-commons-ssl-0.3.11.jar
+
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5377/trunk/itext/ant
+END
+release.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1160/trunk/itext/ant/release.xml
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1160/trunk/itext/ant/site.xml
+END
+download.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1160/trunk/itext/ant/download.xml
+END
+compile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1160/trunk/itext/ant/compile.xml
+END
+.ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1160/trunk/itext/ant/.ant.properties
+END

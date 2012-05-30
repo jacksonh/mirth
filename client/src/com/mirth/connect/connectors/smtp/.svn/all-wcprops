@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/connectors/smtp
+END
+SmtpSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/connectors/smtp/SmtpSender.java
+END
+SmtpSender.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5671/trunk/client/src/com/mirth/connect/connectors/smtp/SmtpSender.form
+END

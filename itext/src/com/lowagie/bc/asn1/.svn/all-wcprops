@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/bc/asn1
+END
+ASN1OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1OutputStream.java
+END
+DERIA5String.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERIA5String.java
+END
+BERSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERSequence.java
+END
+DERSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERSequence.java
+END
+DERConstructedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERConstructedSet.java
+END
+BEROutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BEROutputStream.java
+END
+DERUTCTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERUTCTime.java
+END
+DEROutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DEROutputStream.java
+END
+DERUTF8String.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERUTF8String.java
+END
+DERBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERBoolean.java
+END
+BERConstructedOctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERConstructedOctetString.java
+END
+ASN1Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1Set.java
+END
+DERVisibleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERVisibleString.java
+END
+DEREnumerated.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DEREnumerated.java
+END
+BERSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERSet.java
+END
+DERNumericString.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERNumericString.java
+END
+DERSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERSet.java
+END
+ASN1OctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1OctetString.java
+END
+DERInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERInteger.java
+END
+bouncycastle_license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/bouncycastle_license.txt
+END
+DERT61String.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERT61String.java
+END
+ASN1Null.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1Null.java
+END
+ASN1InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1InputStream.java
+END
+ASN1Encodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1Encodable.java
+END
+DERGeneralString.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERGeneralString.java
+END
+DEROctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DEROctetString.java
+END
+DERBMPString.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERBMPString.java
+END
+DERBitString.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERBitString.java
+END
+DERString.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERString.java
+END
+DERObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERObject.java
+END
+DERPrintableString.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERPrintableString.java
+END
+DERGeneralizedTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERGeneralizedTime.java
+END
+BERNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERNull.java
+END
+DERApplicationSpecific.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERApplicationSpecific.java
+END
+BERInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERInputStream.java
+END
+DERObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERObjectIdentifier.java
+END
+DERNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERNull.java
+END
+ASN1TaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1TaggedObject.java
+END
+DERInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERInputStream.java
+END
+OIDTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/OIDTokenizer.java
+END
+DEREncodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DEREncodable.java
+END
+BERTaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERTaggedObject.java
+END
+DERTaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERTaggedObject.java
+END
+BERConstructedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/BERConstructedSequence.java
+END
+DERConstructedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERConstructedSequence.java
+END
+ASN1EncodableVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1EncodableVector.java
+END
+DERUnknownTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERUnknownTag.java
+END
+DERTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERTags.java
+END
+DEREncodableVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DEREncodableVector.java
+END
+DERUniversalString.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/DERUniversalString.java
+END
+ASN1Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/bc/asn1/ASN1Sequence.java
+END

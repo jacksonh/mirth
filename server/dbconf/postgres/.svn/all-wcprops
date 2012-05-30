@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5751/trunk/server/dbconf/postgres
+END
+postgres-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5633/trunk/server/dbconf/postgres/postgres-user.xml
+END
+postgres-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5359/trunk/server/dbconf/postgres/postgres-event.xml
+END
+postgres-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5750/trunk/server/dbconf/postgres/postgres-database.sql
+END
+postgres-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5684/trunk/server/dbconf/postgres/postgres-message.xml
+END
+postgres-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5368/trunk/server/dbconf/postgres/postgres-script.xml
+END
+postgres-codeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5361/trunk/server/dbconf/postgres/postgres-codeTemplate.xml
+END
+postgres-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5341/trunk/server/dbconf/postgres/postgres-alert.xml
+END
+postgres-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5751/trunk/server/dbconf/postgres/postgres-configuration.xml
+END
+postgres-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5341/trunk/server/dbconf/postgres/postgres-statistic.xml
+END
+postgres-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5341/trunk/server/dbconf/postgres/postgres-channel.xml
+END
+postgres-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5341/trunk/server/dbconf/postgres/postgres-template.xml
+END

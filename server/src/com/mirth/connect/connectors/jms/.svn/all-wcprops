@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/jms
+END
+JmsTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsTransaction.java
+END
+JmsMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsMessageAdapter.java
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/jms/destination.xml
+END
+JmsClientAcknowledgeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsClientAcknowledgeTransaction.java
+END
+JMSWriterProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JMSWriterProperties.java
+END
+JmsConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5687/trunk/server/src/com/mirth/connect/connectors/jms/JmsConnector.java
+END
+JmsMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5688/trunk/server/src/com/mirth/connect/connectors/jms/JmsMessageDispatcher.java
+END
+JmsReplyToHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsReplyToHandler.java
+END
+RedeliveryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/RedeliveryHandler.java
+END
+JmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsUtils.java
+END
+Jms102bSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/Jms102bSupport.java
+END
+DefaultRedeliveryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/DefaultRedeliveryHandler.java
+END
+MessageRedeliveredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/MessageRedeliveredException.java
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/jms/source.xml
+END
+JmsMessageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsMessageUtils.java
+END
+JmsMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5373/trunk/server/src/com/mirth/connect/connectors/jms/JmsMessageReceiver.java
+END
+JmsSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsSupport.java
+END
+JmsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsConstants.java
+END
+JmsTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsTransactionFactory.java
+END
+Jms11Support.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/Jms11Support.java
+END
+JMSReaderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JMSReaderProperties.java
+END
+JmsClientAcknowledgeTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsClientAcknowledgeTransactionFactory.java
+END
+TransactedJmsMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5373/trunk/server/src/com/mirth/connect/connectors/jms/TransactedJmsMessageReceiver.java
+END
+JmsMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/jms/JmsMessageDispatcherFactory.java
+END

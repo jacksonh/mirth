@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/vm
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/vm/source.xml
+END
+VMTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/VMTransactionFactory.java
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/vm/destination.xml
+END
+VMResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5107/trunk/server/src/com/mirth/connect/connectors/vm/VMResponse.java
+END
+ChannelWriterProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/ChannelWriterProperties.java
+END
+VMMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/VMMessageDispatcherFactory.java
+END
+ChannelReaderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/ChannelReaderProperties.java
+END
+VMMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/VMMessageAdapter.java
+END
+VMTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/VMTransaction.java
+END
+VMMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5790/trunk/server/src/com/mirth/connect/connectors/vm/VMMessageReceiver.java
+END
+VMConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/vm/VMConnector.java
+END
+VMMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4983/trunk/server/src/com/mirth/connect/connectors/vm/VMMessageDispatcher.java
+END

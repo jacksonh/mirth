@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5377/trunk/server/lib/extensions/dimse
+END
+dcm4che-filecache-2.0.25.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/dcm4che-filecache-2.0.25.jar
+END
+dcm4che-tool-dcmsnd-2.0.25.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/dcm4che-tool-dcmsnd-2.0.25.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/slf4j-api-1.6.1.jar
+END
+dcm4che-net-2.0.25.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/dcm4che-net-2.0.25.jar
+END
+jai_imageio.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3815/trunk/server/lib/extensions/dimse/jai_imageio.jar
+END
+dcm4che-core-2.0.25.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/dcm4che-core-2.0.25.jar
+END
+dcm4che-tool-dcmrcv-2.0.25.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/dcm4che-tool-dcmrcv-2.0.25.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5269/trunk/server/lib/extensions/dimse/slf4j-log4j12-1.6.1.jar
+END

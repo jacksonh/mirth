@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5870/trunk/server
+END
+mirth-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5810/trunk/server/mirth-build.xml
+END
+mirth-hudson.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5710/trunk/server/mirth-hudson.xml
+END
+keystore.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5049/trunk/server/keystore.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5859/trunk/server/.classpath
+END
+mirth-client.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5643/trunk/server/mirth-client.jnlp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4425/trunk/server/.project
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3594/trunk/server/build.bat
+END
+run-eclipse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4956/trunk/server/run-eclipse.xml
+END
+license-header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4542/trunk/server/license-header.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5253/trunk/server/build.properties
+END
+keystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5049/trunk/server/keystore.jks
+END
+mirth-build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5856/trunk/server/mirth-build.properties
+END
+Mirth Connect Server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5847/trunk/server/Mirth%20Connect%20Server.launch
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5811/trunk/server/build.xml
+END

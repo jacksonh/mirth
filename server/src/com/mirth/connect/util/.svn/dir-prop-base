@@ -1,0 +1,18 @@
+K 13
+bugtraq:label
+V 39
+Enter issue number (exclude 'MIRTH-'): 
+K 15
+bugtraq:message
+V 20
+Issue: MIRTH-%BUGID%
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 10
+svn:ignore
+V 30
+GenerateExtensionUpdate.java
+
+END

@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text
+END
+SimpleTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/SimpleTable.java
+END
+DocWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/DocWriter.java
+END
+ImgCCITT.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ImgCCITT.java
+END
+FontFactoryImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/FontFactoryImp.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Section.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Font.java
+END
+MarkupAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/MarkupAttributes.java
+END
+SpecialSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/SpecialSymbol.java
+END
+ImgPostscript.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ImgPostscript.java
+END
+HeaderFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/HeaderFooter.java
+END
+ImgTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ImgTemplate.java
+END
+ElementTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ElementTags.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Annotation.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/List.java
+END
+BadElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/BadElementException.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Image.java
+END
+MPL-1.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/MPL-1.1.txt
+END
+Meta.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Meta.java
+END
+Chapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Chapter.java
+END
+ImgRaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ImgRaw.java
+END
+ImgWMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ImgWMF.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Table.java
+END
+SimpleCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/SimpleCell.java
+END
+GreekList.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/GreekList.java
+END
+Watermark.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Watermark.java
+END
+DocumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/DocumentException.java
+END
+FontFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/FontFactory.java
+END
+ElementListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ElementListener.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Rectangle.java
+END
+Paragraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Paragraph.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Row.java
+END
+PageSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/PageSize.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Chunk.java
+END
+RomanList.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/RomanList.java
+END
+SplitCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/SplitCharacter.java
+END
+ZapfDingbatsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ZapfDingbatsList.java
+END
+Anchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Anchor.java
+END
+DocListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/DocListener.java
+END
+Graphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Graphic.java
+END
+StringCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/StringCompare.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Document.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Cell.java
+END
+ZapfDingbatsNumberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ZapfDingbatsNumberList.java
+END
+Phrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Phrase.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Entities.java
+END
+Jpeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Jpeg.java
+END
+ExceptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ExceptionConverter.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Header.java
+END
+ChapterAutoNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ChapterAutoNumber.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/Element.java
+END
+ListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/ListItem.java
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/lgpl.txt
+END
+TextElementArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/TextElementArray.java
+END

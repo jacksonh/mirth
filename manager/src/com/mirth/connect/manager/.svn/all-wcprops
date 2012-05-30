@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5806/trunk/manager/src/com/mirth/connect/manager
+END
+BareBonesBrowserLaunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/manager/src/com/mirth/connect/manager/BareBonesBrowserLaunch.java
+END
+CmdUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4780/trunk/manager/src/com/mirth/connect/manager/CmdUtil.java
+END
+ServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4864/trunk/manager/src/com/mirth/connect/manager/ServiceController.java
+END
+MirthHeadingPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4678/trunk/manager/src/com/mirth/connect/manager/MirthHeadingPanel.form
+END
+ManagerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5466/trunk/manager/src/com/mirth/connect/manager/ManagerConstants.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4683/trunk/manager/src/com/mirth/connect/manager/Manager.java
+END
+ManagerTray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5806/trunk/manager/src/com/mirth/connect/manager/ManagerTray.java
+END
+ManagerDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5660/trunk/manager/src/com/mirth/connect/manager/ManagerDialog.form
+END
+ManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5806/trunk/manager/src/com/mirth/connect/manager/ManagerController.java
+END
+WindowsServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4864/trunk/manager/src/com/mirth/connect/manager/WindowsServiceController.java
+END
+PlatformUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5178/trunk/manager/src/com/mirth/connect/manager/PlatformUI.java
+END
+MirthHeadingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4785/trunk/manager/src/com/mirth/connect/manager/MirthHeadingPanel.java
+END
+LinuxServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5342/trunk/manager/src/com/mirth/connect/manager/LinuxServiceController.java
+END
+MacServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4864/trunk/manager/src/com/mirth/connect/manager/MacServiceController.java
+END
+ManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5660/trunk/manager/src/com/mirth/connect/manager/ManagerDialog.java
+END
+ServiceControllerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4784/trunk/manager/src/com/mirth/connect/manager/ServiceControllerFactory.java
+END

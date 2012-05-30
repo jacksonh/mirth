@@ -1,0 +1,12 @@
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 10
+svn:ignore
+V 33
+
+HL7V2Parser.java
+HL7v2Test.java
+
+END

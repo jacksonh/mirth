@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5841/trunk/server/lib/commons
+END
+commons-el-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-el-1.0.jar
+END
+commons-jxpath-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-jxpath-1.3.jar
+END
+commons-digester-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-digester-2.0.jar
+END
+commons-cli-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-cli-1.2.jar
+END
+commons-io-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5702/trunk/server/lib/commons/commons-io-2.1.jar
+END
+commons-dbutils-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5702/trunk/server/lib/commons/commons-dbutils-1.4.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5238/trunk/server/lib/commons/commons-dbcp-1.4.jar
+END
+commons-configuration-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5702/trunk/server/lib/commons/commons-configuration-1.7.jar
+END
+commons-httpclient-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-httpclient-3.0.1.jar
+END
+not-yet-commons-ssl-0.3.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5527/trunk/server/lib/commons/not-yet-commons-ssl-0.3.11.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-collections-3.2.1.jar
+END
+commons-pool-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5702/trunk/server/lib/commons/commons-pool-1.5.6.jar
+END
+commons-codec-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5841/trunk/server/lib/commons/commons-codec-1.6.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-fileupload-1.2.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-logging-1.1.1.jar
+END
+commons-net-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5500/trunk/server/lib/commons/commons-net-3.0.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5702/trunk/server/lib/commons/commons-lang-2.6.jar
+END
+commons-email-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5500/trunk/server/lib/commons/commons-email-1.2.jar
+END
+commons-beanutils-1.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4421/trunk/server/lib/commons/commons-beanutils-1.8.2.jar
+END

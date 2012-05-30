@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5377/trunk/server/src/org/mule/util/queue
+END
+QueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/QueueManager.java
+END
+MemoryPersistenceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/MemoryPersistenceStrategy.java
+END
+TransactionalQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4983/trunk/server/src/org/mule/util/queue/TransactionalQueueManager.java
+END
+CachingPersistenceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/CachingPersistenceStrategy.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/Queue.java
+END
+FilePersistenceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4983/trunk/server/src/org/mule/util/queue/FilePersistenceStrategy.java
+END
+QueueSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4983/trunk/server/src/org/mule/util/queue/QueueSession.java
+END
+FilePersistenceQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/FilePersistenceQueue.java
+END
+QueuePersistenceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4564/trunk/server/src/org/mule/util/queue/QueuePersistenceStrategy.java
+END

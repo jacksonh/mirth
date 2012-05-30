@@ -1,0 +1,1013 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/pdf
+END
+PdfFormField.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfFormField.java
+END
+ColumnText.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ColumnText.java
+END
+PdfStructureElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfStructureElement.java
+END
+PdfLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfLayer.java
+END
+PdfDashPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfDashPattern.java
+END
+PdfDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfDocument.java
+END
+PdfColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfColor.java
+END
+XfdfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/XfdfReader.java
+END
+Barcode39.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Barcode39.java
+END
+VerticalText.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/VerticalText.java
+END
+HyphenationAuto.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/HyphenationAuto.java
+END
+PushbuttonField.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PushbuttonField.java
+END
+PdfTransparencyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfTransparencyGroup.java
+END
+PdfIndirectObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfIndirectObject.java
+END
+PdfPrinterGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPrinterGraphics2D.java
+END
+SpotColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SpotColor.java
+END
+PdfContentByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfContentByte.java
+END
+PdfPageLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPageLabels.java
+END
+ExtraEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ExtraEncoding.java
+END
+PdfPatternPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPatternPainter.java
+END
+PdfSigGenericPKCS.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfSigGenericPKCS.java
+END
+BarcodeEANSUPP.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodeEANSUPP.java
+END
+XmlDomWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/XmlDomWriter.java
+END
+CJKFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/CJKFont.java
+END
+RadioCheckField.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/RadioCheckField.java
+END
+PdfFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfFont.java
+END
+PdfCopyFieldsImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfCopyFieldsImp.java
+END
+PdfEncodings.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfEncodings.java
+END
+PdfAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfAnnotation.java
+END
+PRTokeniser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PRTokeniser.java
+END
+PdfShadingPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfShadingPattern.java
+END
+PdfPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPage.java
+END
+PageResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PageResources.java
+END
+TrueTypeFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/TrueTypeFont.java
+END
+PdfBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfBoolean.java
+END
+PdfFileSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfFileSpecification.java
+END
+FontDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/FontDetails.java
+END
+PdfSpotColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfSpotColor.java
+END
+SimpleBookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SimpleBookmark.java
+END
+PdfNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfNumber.java
+END
+PdfLayerMembership.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfLayerMembership.java
+END
+PdfLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfLiteral.java
+END
+PdfAcroForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfAcroForm.java
+END
+PdfStamper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfStamper.java
+END
+PdfPageEventHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPageEventHelper.java
+END
+PRAcroForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PRAcroForm.java
+END
+FontMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/FontMapper.java
+END
+PdfStamperImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfStamperImp.java
+END
+BarcodePostnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodePostnet.java
+END
+PdfFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfFunction.java
+END
+PdfEncryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfEncryptor.java
+END
+PdfGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfGraphics2D.java
+END
+PdfPRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPRow.java
+END
+PdfPKCS7.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPKCS7.java
+END
+PdfGState.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfGState.java
+END
+PdfRendition.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfRendition.java
+END
+BarcodePDF417.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodePDF417.java
+END
+SimpleXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SimpleXMLParser.java
+END
+PdfPages.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPages.java
+END
+PdfPCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPCell.java
+END
+PdfNameTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfNameTree.java
+END
+PdfObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfObject.java
+END
+PdfString.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfString.java
+END
+RandomAccessFileOrArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/RandomAccessFileOrArray.java
+END
+SequenceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SequenceList.java
+END
+DocumentFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/DocumentFont.java
+END
+PdfBorderArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfBorderArray.java
+END
+PdfPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPattern.java
+END
+Type3Glyph.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Type3Glyph.java
+END
+PdfImportedPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfImportedPage.java
+END
+ShadingColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ShadingColor.java
+END
+PdfStructureTreeRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfStructureTreeRoot.java
+END
+PdfLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfLine.java
+END
+BarcodeEAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodeEAN.java
+END
+CFFFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/CFFFont.java
+END
+Type1Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Type1Font.java
+END
+TrueTypeFontSubSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/TrueTypeFontSubSet.java
+END
+PdfRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfRectangle.java
+END
+GrayColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/GrayColor.java
+END
+BaseFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BaseFont.java
+END
+PdfPTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPTable.java
+END
+sun.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/sun.txt
+END
+IntHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/IntHashtable.java
+END
+FontSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/FontSelector.java
+END
+BadPdfFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BadPdfFormatException.java
+END
+PdfOCProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfOCProperties.java
+END
+PdfPageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPageEvent.java
+END
+BarcodeCodabar.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodeCodabar.java
+END
+PdfTextArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfTextArray.java
+END
+MultiColumnText.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/MultiColumnText.java
+END
+TrueTypeFontUnicode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/TrueTypeFontUnicode.java
+END
+GlyphList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/GlyphList.java
+END
+BidiLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BidiLine.java
+END
+FdfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/FdfReader.java
+END
+PdfICCBased.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfICCBased.java
+END
+HyphenationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/HyphenationEvent.java
+END
+PdfAppearance.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfAppearance.java
+END
+MappedRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/MappedRandomAccessFile.java
+END
+PdfPCellEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPCellEvent.java
+END
+PdfPSXObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPSXObject.java
+END
+FdfWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/FdfWriter.java
+END
+ExtendedColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ExtendedColor.java
+END
+SimpleNamedDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SimpleNamedDestination.java
+END
+EnumerateTTC.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/EnumerateTTC.java
+END
+PdfEncryptionStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfEncryptionStream.java
+END
+XfaForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/XfaForm.java
+END
+LZWDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/LZWDecoder.java
+END
+CMYKColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/CMYKColor.java
+END
+PdfName.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfName.java
+END
+PdfSignatureAppearance.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfSignatureAppearance.java
+END
+AcroFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/AcroFields.java
+END
+CFFFontSubset.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/CFFFontSubset.java
+END
+PdfDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfDestination.java
+END
+OutputStreamCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/OutputStreamCounter.java
+END
+BaseField.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BaseField.java
+END
+DefaultFontMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/DefaultFontMapper.java
+END
+SimpleXMLDocHandlerComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SimpleXMLDocHandlerComment.java
+END
+PdfReaderInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfReaderInstance.java
+END
+AsianFontMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/AsianFontMapper.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/TextField.java
+END
+Pfm2afm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Pfm2afm.java
+END
+PdfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfException.java
+END
+Barcode128.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Barcode128.java
+END
+Type3Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Type3Font.java
+END
+Barcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/Barcode.java
+END
+PdfDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfDictionary.java
+END
+PdfChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfChunk.java
+END
+PdfOCG.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfOCG.java
+END
+PdfPTableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPTableEvent.java
+END
+PdfCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfCopy.java
+END
+PdfTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfTemplate.java
+END
+PdfAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfAction.java
+END
+PdfCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfCell.java
+END
+PdfIndirectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfIndirectReference.java
+END
+PdfMediaClipData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfMediaClipData.java
+END
+PdfFormXObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfFormXObject.java
+END
+StampContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/StampContent.java
+END
+PRIndirectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PRIndirectReference.java
+END
+ColorDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ColorDetails.java
+END
+PdfTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfTransition.java
+END
+PdfStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfStream.java
+END
+PdfCopyFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfCopyFields.java
+END
+PdfXConformanceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfXConformanceException.java
+END
+PdfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfReader.java
+END
+ByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ByteBuffer.java
+END
+PRStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PRStream.java
+END
+SimpleXMLDocHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/SimpleXMLDocHandler.java
+END
+PdfNumberTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfNumberTree.java
+END
+BidiOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BidiOrder.java
+END
+ArabicLigaturizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/ArabicLigaturizer.java
+END
+PdfResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfResources.java
+END
+PdfNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfNull.java
+END
+PdfWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfWriter.java
+END
+PdfShading.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfShading.java
+END
+PdfDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfDate.java
+END
+BarcodeInter25.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/BarcodeInter25.java
+END
+PdfArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfArray.java
+END
+PdfOutline.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfOutline.java
+END
+PdfImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfImage.java
+END
+PatternColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PatternColor.java
+END
+PdfPageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfPageElement.java
+END
+PdfContentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfContentParser.java
+END
+PdfTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfTable.java
+END
+PdfEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfEncryption.java
+END
+PdfContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfContents.java
+END
+PdfSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfSignature.java
+END
+PdfLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfLister.java
+END
+PdfBorderDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/PdfBorderDictionary.java
+END

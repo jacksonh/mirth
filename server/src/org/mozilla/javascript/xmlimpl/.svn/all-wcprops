@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5377/trunk/server/src/org/mozilla/javascript/xmlimpl
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4839/trunk/server/src/org/mozilla/javascript/xmlimpl/XML.java
+END
+XmlProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4750/trunk/server/src/org/mozilla/javascript/xmlimpl/XmlProcessor.java
+END
+XmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/trunk/server/src/org/mozilla/javascript/xmlimpl/XmlNode.java
+END
+XMLList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4839/trunk/server/src/org/mozilla/javascript/xmlimpl/XMLList.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/extensionmanager
+END
+ExtensionUpdateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5604/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionUpdateDialog.java
+END
+ExtensionUpdateDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionUpdateDialog.form
+END
+ExtensionManagerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5719/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionManagerPanel.java
+END
+ExtensionInfoDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionInfoDialog.java
+END
+ExtensionManagerPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5604/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionManagerPanel.form
+END
+ExtensionInfoDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionInfoDialog.form
+END
+ExtensionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/client/ui/extensionmanager/ExtensionUtil.java
+END

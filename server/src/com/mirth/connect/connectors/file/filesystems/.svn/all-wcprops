@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5828/trunk/server/src/com/mirth/connect/connectors/file/filesystems
+END
+FileConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5828/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FileConnection.java
+END
+SmbFileConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5780/trunk/server/src/com/mirth/connect/connectors/file/filesystems/SmbFileConnection.java
+END
+FileSystemConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5597/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FileSystemConnection.java
+END
+SftpUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/file/filesystems/SftpUserInfo.java
+END
+WebDavConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5828/trunk/server/src/com/mirth/connect/connectors/file/filesystems/WebDavConnection.java
+END
+FtpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5828/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FtpConnection.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FileInfo.java
+END
+FileIgnoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5107/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FileIgnoring.java
+END
+FileSystemConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5780/trunk/server/src/com/mirth/connect/connectors/file/filesystems/FileSystemConnectionFactory.java
+END
+SftpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5828/trunk/server/src/com/mirth/connect/connectors/file/filesystems/SftpConnection.java
+END

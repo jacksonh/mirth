@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5695/trunk/server/src/com/mirth/connect/util
+END
+PropertyVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5157/trunk/server/src/com/mirth/connect/util/PropertyVerifier.java
+END
+QueueUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/util/QueueUtil.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5695/trunk/server/src/com/mirth/connect/util/Entities.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/util/StringUtil.java
+END
+CharsetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5665/trunk/server/src/com/mirth/connect/util/CharsetUtils.java
+END
+PropertyLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4877/trunk/server/src/com/mirth/connect/util/PropertyLoader.java
+END
+ConnectionTestResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/util/ConnectionTestResponse.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5091/trunk/server/src/com/mirth/connect/util/XmlUtil.java
+END

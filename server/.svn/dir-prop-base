@@ -1,0 +1,35 @@
+K 13
+bugtraq:label
+V 39
+Enter issue number (exclude 'MIRTH-'): 
+K 15
+bugtraq:message
+V 20
+Issue: MIRTH-%BUGID%
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 14
+subclipse:tags
+V 29
+51,beta,/branches/beta,branch
+K 10
+svn:ignore
+V 115
+mirthdb
+logs
+classes
+setup
+bin
+dist
+.settings
+build
+appdata
+temp
+nbbuild
+nbproject
+nb-build.xml
+version.properties
+
+END

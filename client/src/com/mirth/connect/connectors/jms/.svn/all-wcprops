@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/connectors/jms
+END
+JMSWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/connectors/jms/JMSWriter.java
+END
+JMSWriter.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/jms/JMSWriter.form
+END
+JMSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/connectors/jms/JMSReader.java
+END
+JMSReader.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/connectors/jms/JMSReader.form
+END

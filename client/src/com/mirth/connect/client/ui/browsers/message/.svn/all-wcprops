@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5851/trunk/client/src/com/mirth/connect/client/ui/browsers/message
+END
+MessageBrowserAdvancedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5316/trunk/client/src/com/mirth/connect/client/ui/browsers/message/MessageBrowserAdvancedFilter.java
+END
+MessageBrowserAdvancedFilter.form
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/browsers/message/MessageBrowserAdvancedFilter.form
+END
+MessageBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5851/trunk/client/src/com/mirth/connect/client/ui/browsers/message/MessageBrowser.java
+END
+MessageBrowser.form
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5380/trunk/client/src/com/mirth/connect/client/ui/browsers/message/MessageBrowser.form
+END
+MessageObjectHtmlSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4897/trunk/client/src/com/mirth/connect/client/ui/browsers/message/MessageObjectHtmlSerializer.java
+END

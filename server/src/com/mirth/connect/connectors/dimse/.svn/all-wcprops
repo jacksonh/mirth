@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/dimse
+END
+DICOMMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMMessageDispatcherFactory.java
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/dimse/source.xml
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/dimse/destination.xml
+END
+DICOMMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMMessageAdapter.java
+END
+DICOMMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5777/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMMessageReceiver.java
+END
+DICOMConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5665/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMConnector.java
+END
+DICOMMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4870/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMMessageDispatcher.java
+END
+DICOMSenderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMSenderProperties.java
+END
+DICOMListenerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/dimse/DICOMListenerProperties.java
+END

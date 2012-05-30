@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/ws
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/ws/source.xml
+END
+destination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/connectors/ws/destination.xml
+END
+WebServiceListenerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceListenerProperties.java
+END
+WebServiceMessageDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceMessageDispatcherFactory.java
+END
+AcceptMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/AcceptMessage.java
+END
+WebServiceMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceMessageAdapter.java
+END
+LoggingSOAPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/LoggingSOAPHandler.java
+END
+WebServiceMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4885/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceMessageReceiver.java
+END
+DefaultAcceptMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/connectors/ws/DefaultAcceptMessage.java
+END
+WebServiceConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5399/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceConnector.java
+END
+WebServiceConnectorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5296/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceConnectorService.java
+END
+WebServiceMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5653/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceMessageDispatcher.java
+END
+WebServiceSenderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5081/trunk/server/src/com/mirth/connect/connectors/ws/WebServiceSenderProperties.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5377/trunk/server/src/com/mirth/connect/model/dicom
+END
+DICOMVocabulary.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/dicom/DICOMVocabulary.java
+END
+DICOMReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/model/dicom/DICOMReference.java
+END

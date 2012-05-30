@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5856/trunk/server/src/com/mirth/connect/plugins
+END
+ServicePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5474/trunk/server/src/com/mirth/connect/plugins/ServicePlugin.java
+END
+ServerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5474/trunk/server/src/com/mirth/connect/plugins/ServerPlugin.java
+END
+ChannelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5476/trunk/server/src/com/mirth/connect/plugins/ChannelPlugin.java
+END
+ConnectorStatusPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5412/trunk/server/src/com/mirth/connect/plugins/ConnectorStatusPlugin.java
+END

@@ -1,0 +1,27 @@
+K 13
+bugtraq:label
+V 39
+Enter issue number (exclude 'MIRTH-'): 
+K 15
+bugtraq:message
+V 20
+Issue: MIRTH-%BUGID%
+K 11
+bugtraq:url
+V 62
+http://www.mirthcorp.com/community/issues/browse/MIRTH-%BUGID%
+K 10
+svn:ignore
+V 127
+licenses
+opt
+commons-logging-1.0.4.jar
+itext-2.0.1.jar
+patch
+jdic.dll
+jdic.jar
+swing-layout-1.0.1.jar
+tray.dll
+looks-2.1.1.jar
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5798/trunk/server/conf
+END
+dbdrivers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5384/trunk/server/conf/dbdrivers.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5462/trunk/server/conf/log4j.properties
+END
+mirth.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5798/trunk/server/conf/mirth.properties
+END

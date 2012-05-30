@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5751/trunk/server/dbconf/mysql
+END
+mysql-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5533/trunk/server/dbconf/mysql/mysql-user.xml
+END
+mysql-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5359/trunk/server/dbconf/mysql/mysql-event.xml
+END
+mysql-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5750/trunk/server/dbconf/mysql/mysql-database.sql
+END
+mysql-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5684/trunk/server/dbconf/mysql/mysql-message.xml
+END
+mysql-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5368/trunk/server/dbconf/mysql/mysql-script.xml
+END
+mysql-codeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5361/trunk/server/dbconf/mysql/mysql-codeTemplate.xml
+END
+mysql-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5341/trunk/server/dbconf/mysql/mysql-alert.xml
+END
+mysql-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5751/trunk/server/dbconf/mysql/mysql-configuration.xml
+END
+mysql-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5341/trunk/server/dbconf/mysql/mysql-statistic.xml
+END
+mysql-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5341/trunk/server/dbconf/mysql/mysql-channel.xml
+END
+mysql-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5341/trunk/server/dbconf/mysql/mysql-template.xml
+END

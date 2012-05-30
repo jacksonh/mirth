@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5377/trunk/server/contrib/database
+END
+sybase-SqlMapConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3941/trunk/server/contrib/database/sybase-SqlMapConfig.properties
+END
+sybase-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3941/trunk/server/contrib/database/sybase-database.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/dimse
+END
+DICOMListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5007/trunk/client/src/com/mirth/connect/connectors/dimse/DICOMListener.java
+END
+DICOMListener.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/connectors/dimse/DICOMListener.form
+END
+DICOMSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/dimse/DICOMSender.java
+END
+DICOMSender.form
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/dimse/DICOMSender.form
+END

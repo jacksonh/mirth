@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/html
+END
+HtmlPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlPeer.java
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlParser.java
+END
+HtmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlWriter.java
+END
+HtmlTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlTags.java
+END
+HtmlEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlEncoder.java
+END
+SAXmyHtmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/SAXmyHtmlHandler.java
+END
+HtmlTagMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/html/HtmlTagMap.java
+END

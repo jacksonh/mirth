@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5556/trunk/server/src/com/thoughtworks/xstream/converters/collections
+END
+PropertiesConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5555/trunk/server/src/com/thoughtworks/xstream/converters/collections/PropertiesConverter.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5555/trunk/server/src/com/thoughtworks/xstream/converters/collections/DateConverter.java
+END
+ConcurrentHashMapConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5556/trunk/server/src/com/thoughtworks/xstream/converters/collections/ConcurrentHashMapConverter.java
+END

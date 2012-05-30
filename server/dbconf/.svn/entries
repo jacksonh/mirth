@@ -1,0 +1,83 @@
+10
+
+dir
+5870
+http://www.mirthproject.org/svn/trunk/server/dbconf
+http://www.mirthproject.org/svn
+
+
+
+2012-01-17T23:25:03.087526Z
+5820
+jacobb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+c801cdd1-710f-0410-a44a-8d9edceeb29b
+
+SqlMapConfig.xml
+file
+
+
+
+
+2012-05-30T02:58:04.000000Z
+ff1e412b734112da9be06a90681a310b
+2012-01-17T23:25:03.087526Z
+5820
+jacobb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2839
+
+derby
+dir
+
+mysql
+dir
+
+oracle
+dir
+
+postgres
+dir
+
+sqlserver
+dir
+
+sqlserver2000
+dir
+
+deltas
+dir
+

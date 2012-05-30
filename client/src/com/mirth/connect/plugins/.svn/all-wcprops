@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5841/trunk/client/src/com/mirth/connect/plugins
+END
+SettingsPanelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/plugins/SettingsPanelPlugin.java
+END
+DashboardColumnPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5411/trunk/client/src/com/mirth/connect/plugins/DashboardColumnPlugin.java
+END
+ChannelColumnPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5411/trunk/client/src/com/mirth/connect/plugins/ChannelColumnPlugin.java
+END
+CodeTemplatePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5421/trunk/client/src/com/mirth/connect/plugins/CodeTemplatePlugin.java
+END
+DashboardPanelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/plugins/DashboardPanelPlugin.java
+END
+ChannelPanelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5411/trunk/client/src/com/mirth/connect/plugins/ChannelPanelPlugin.java
+END
+ChannelWizardPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/plugins/ChannelWizardPlugin.java
+END
+AttachmentViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5207/trunk/client/src/com/mirth/connect/plugins/AttachmentViewer.java
+END
+FilterRulePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5199/trunk/client/src/com/mirth/connect/plugins/FilterRulePlugin.java
+END
+TransformerStepPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5199/trunk/client/src/com/mirth/connect/plugins/TransformerStepPlugin.java
+END
+MirthEditorPanePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5204/trunk/client/src/com/mirth/connect/plugins/MirthEditorPanePlugin.java
+END
+ClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5421/trunk/client/src/com/mirth/connect/plugins/ClientPlugin.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5751/trunk/server/dbconf/oracle
+END
+oracle-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5633/trunk/server/dbconf/oracle/oracle-user.xml
+END
+oracle-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5359/trunk/server/dbconf/oracle/oracle-event.xml
+END
+oracle-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5750/trunk/server/dbconf/oracle/oracle-database.sql
+END
+oracle-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5684/trunk/server/dbconf/oracle/oracle-message.xml
+END
+oracle-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5368/trunk/server/dbconf/oracle/oracle-script.xml
+END
+oracle-codeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5361/trunk/server/dbconf/oracle/oracle-codeTemplate.xml
+END
+oracle-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5341/trunk/server/dbconf/oracle/oracle-alert.xml
+END
+oracle-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5751/trunk/server/dbconf/oracle/oracle-configuration.xml
+END
+oracle-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5341/trunk/server/dbconf/oracle/oracle-statistic.xml
+END
+oracle-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5341/trunk/server/dbconf/oracle/oracle-channel.xml
+END
+oracle-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5341/trunk/server/dbconf/oracle/oracle-template.xml
+END

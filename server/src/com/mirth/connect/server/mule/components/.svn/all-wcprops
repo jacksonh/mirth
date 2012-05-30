@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5377/trunk/server/src/com/mirth/connect/server/mule/components
+END
+SoapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/server/mule/components/SoapService.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/server/mule/components/Channel.java
+END
+SoapChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/server/src/com/mirth/connect/server/mule/components/SoapChannel.java
+END

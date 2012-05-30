@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/tools
+END
+concat_pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/concat_pdf.java
+END
+Executable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/Executable.java
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/SwingWorker.java
+END
+BuildTutorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/BuildTutorial.java
+END
+ToolMenuItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/ToolMenuItems.java
+END
+split_pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/split_pdf.java
+END
+Toolbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/Toolbox.java
+END
+Versions.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/Versions.java
+END
+CvsLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/CvsLogParser.java
+END
+handout_pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/handout_pdf.java
+END
+LPR.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/LPR.java
+END
+encrypt_pdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/tools/encrypt_pdf.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5510/trunk/client/src/com/mirth/connect/client/ui/util
+END
+VariableListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/util/VariableListUtil.java
+END
+DisplayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5107/trunk/client/src/com/mirth/connect/client/ui/util/DisplayUtil.java
+END
+SQLParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/util/SQLParserUtil.java
+END

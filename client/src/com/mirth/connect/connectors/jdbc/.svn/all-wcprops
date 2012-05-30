@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5857/trunk/client/src/com/mirth/connect/connectors/jdbc
+END
+DatabaseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5857/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseWriter.java
+END
+DatabaseWriter.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseWriter.form
+END
+DatabaseMetadataDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5836/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseMetadataDialog.java
+END
+DatabaseMetadataDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseMetadataDialog.form
+END
+DatabaseReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5857/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseReader.java
+END
+DatabaseReader.form
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5473/trunk/client/src/com/mirth/connect/connectors/jdbc/DatabaseReader.form
+END

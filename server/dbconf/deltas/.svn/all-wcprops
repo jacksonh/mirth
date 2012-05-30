@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5799/trunk/server/dbconf/deltas
+END
+postgres-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5749/trunk/server/dbconf/deltas/postgres-8-9.sql
+END
+oracle-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-0-1.sql
+END
+derby-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-0-1.sql
+END
+mysql-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-0-1.sql
+END
+oracle-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-1-2.sql
+END
+derby-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-1-2.sql
+END
+mysql-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-1-2.sql
+END
+oracle-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-2-3.sql
+END
+derby-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-2-3.sql
+END
+mysql-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-2-3.sql
+END
+oracle-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-3-4.sql
+END
+derby-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-3-4.sql
+END
+mysql-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-3-4.sql
+END
+oracle-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-4-5.sql
+END
+derby-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-4-5.sql
+END
+mysql-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-4-5.sql
+END
+mysql-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/mysql-5-6.sql
+END
+derby-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-5-6.sql
+END
+oracle-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/oracle-5-6.sql
+END
+mysql-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5440/trunk/server/dbconf/deltas/mysql-6-7.sql
+END
+derby-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/derby-6-7.sql
+END
+oracle-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5440/trunk/server/dbconf/deltas/oracle-6-7.sql
+END
+derby-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5361/trunk/server/dbconf/deltas/derby-7-8.sql
+END
+mysql-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5361/trunk/server/dbconf/deltas/mysql-7-8.sql
+END
+oracle-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5366/trunk/server/dbconf/deltas/oracle-7-8.sql
+END
+derby-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5749/trunk/server/dbconf/deltas/derby-8-9.sql
+END
+mysql-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5749/trunk/server/dbconf/deltas/mysql-8-9.sql
+END
+oracle-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5795/trunk/server/dbconf/deltas/oracle-8-9.sql
+END
+sqlserver-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-0-1.sql
+END
+sqlserver2000-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-0-1.sql
+END
+sqlserver-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-1-2.sql
+END
+sqlserver-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-2-3.sql
+END
+sqlserver2000-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-1-2.sql
+END
+sqlserver-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-3-4.sql
+END
+sqlserver2000-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-2-3.sql
+END
+sqlserver-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-4-5.sql
+END
+sqlserver2000-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-3-4.sql
+END
+sqlserver-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-5-6.sql
+END
+sqlserver2000-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-4-5.sql
+END
+sqlserver-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/server/dbconf/deltas/sqlserver-6-7.sql
+END
+sqlserver2000-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-5-6.sql
+END
+sqlserver-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5367/trunk/server/dbconf/deltas/sqlserver-7-8.sql
+END
+sqlserver2000-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5244/trunk/server/dbconf/deltas/sqlserver2000-6-7.sql
+END
+postgres-0-1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-0-1.sql
+END
+sqlserver-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5799/trunk/server/dbconf/deltas/sqlserver-8-9.sql
+END
+sqlserver2000-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5367/trunk/server/dbconf/deltas/sqlserver2000-7-8.sql
+END
+postgres-1-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-1-2.sql
+END
+sqlserver2000-8-9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5799/trunk/server/dbconf/deltas/sqlserver2000-8-9.sql
+END
+postgres-2-3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-2-3.sql
+END
+postgres-3-4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-3-4.sql
+END
+postgres-4-5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-4-5.sql
+END
+postgres-5-6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-5-6.sql
+END
+postgres-6-7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5168/trunk/server/dbconf/deltas/postgres-6-7.sql
+END
+postgres-7-8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5361/trunk/server/dbconf/deltas/postgres-7-8.sql
+END

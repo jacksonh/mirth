@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/pdf/codec
+END
+BmpImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/BmpImage.java
+END
+CCITTG4Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/CCITTG4Encoder.java
+END
+TIFFConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TIFFConstants.java
+END
+PngImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/PngImage.java
+END
+GifImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/GifImage.java
+END
+TIFFLZWDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TIFFLZWDecoder.java
+END
+TiffImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TiffImage.java
+END
+TIFFField.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TIFFField.java
+END
+TIFFDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TIFFDirectory.java
+END
+TIFFFaxDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/pdf/codec/TIFFFaxDecoder.java
+END

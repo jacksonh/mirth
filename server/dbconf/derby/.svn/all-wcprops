@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5751/trunk/server/dbconf/derby
+END
+derby-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5533/trunk/server/dbconf/derby/derby-user.xml
+END
+derby-event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5359/trunk/server/dbconf/derby/derby-event.xml
+END
+derby-database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5750/trunk/server/dbconf/derby/derby-database.sql
+END
+derby-message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5684/trunk/server/dbconf/derby/derby-message.xml
+END
+derby-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5368/trunk/server/dbconf/derby/derby-script.xml
+END
+derby-codeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5361/trunk/server/dbconf/derby/derby-codeTemplate.xml
+END
+derby-alert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5341/trunk/server/dbconf/derby/derby-alert.xml
+END
+derby-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5751/trunk/server/dbconf/derby/derby-configuration.xml
+END
+derby-statistic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5341/trunk/server/dbconf/derby/derby-statistic.xml
+END
+derby-channel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5341/trunk/server/dbconf/derby/derby-channel.xml
+END
+derby-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5341/trunk/server/dbconf/derby/derby-template.xml
+END

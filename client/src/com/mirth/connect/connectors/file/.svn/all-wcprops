@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5818/trunk/client/src/com/mirth/connect/connectors/file
+END
+FileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5779/trunk/client/src/com/mirth/connect/connectors/file/FileReader.java
+END
+FileReader.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5594/trunk/client/src/com/mirth/connect/connectors/file/FileReader.form
+END
+FileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5818/trunk/client/src/com/mirth/connect/connectors/file/FileWriter.java
+END
+FileWriter.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5818/trunk/client/src/com/mirth/connect/connectors/file/FileWriter.form
+END

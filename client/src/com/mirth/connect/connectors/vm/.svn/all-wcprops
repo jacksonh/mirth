@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/vm
+END
+ChannelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/vm/ChannelWriter.java
+END
+ChannelWriter.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5471/trunk/client/src/com/mirth/connect/connectors/vm/ChannelWriter.form
+END
+ChannelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5007/trunk/client/src/com/mirth/connect/connectors/vm/ChannelReader.java
+END
+ChannelReader.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/connectors/vm/ChannelReader.form
+END

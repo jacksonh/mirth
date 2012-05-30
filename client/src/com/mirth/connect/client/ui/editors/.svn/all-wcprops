@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/client/ui/editors
+END
+MessageTemplatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MessageTemplatePanel.java
+END
+LineNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/LineNumber.java
+END
+MapperPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/client/ui/editors/MapperPanel.java
+END
+EditorTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5707/trunk/client/src/com/mirth/connect/client/ui/editors/EditorTableCellEditor.java
+END
+XsltStepPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/XsltStepPanel.java
+END
+ScriptPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/ScriptPanel.form
+END
+MessageTreePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MessageTreePanel.form
+END
+ExternalScriptPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/editors/ExternalScriptPanel.form
+END
+BasePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/editors/BasePanel.form
+END
+MessageBuilder.form
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MessageBuilder.form
+END
+TabbedTemplatePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/TabbedTemplatePanel.form
+END
+BoundPropertiesSheetDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4676/trunk/client/src/com/mirth/connect/client/ui/editors/BoundPropertiesSheetDialog.form
+END
+JavaScriptEditorDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/JavaScriptEditorDialog.form
+END
+RuleBuilderPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4748/trunk/client/src/com/mirth/connect/client/ui/editors/RuleBuilderPanel.form
+END
+MessageTemplatePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MessageTemplatePanel.form
+END
+JavaScriptPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/JavaScriptPropertyEditor.java
+END
+EditorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/EditorConstants.java
+END
+MessageTreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MessageTreePanel.java
+END
+ScriptPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/ScriptPanel.java
+END
+MapperPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MapperPanel.form
+END
+ExternalScriptPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/ExternalScriptPanel.java
+END
+XsltStepPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/XsltStepPanel.form
+END
+BasePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/BasePanel.java
+END
+MessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/client/ui/editors/MessageBuilder.java
+END
+JavaScriptEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5557/trunk/client/src/com/mirth/connect/client/ui/editors/JavaScriptEditorDialog.java
+END
+BoundPropertiesSheetDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/BoundPropertiesSheetDialog.java
+END
+TabbedTemplatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/TabbedTemplatePanel.java
+END
+MirthEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4683/trunk/client/src/com/mirth/connect/client/ui/editors/MirthEditorPane.java
+END
+RuleBuilderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5708/trunk/client/src/com/mirth/connect/client/ui/editors/RuleBuilderPanel.java
+END

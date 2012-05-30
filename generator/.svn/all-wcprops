@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5377/trunk/generator
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4824/trunk/generator/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4437/trunk/generator/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4437/trunk/generator/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4683/trunk/generator/build.xml
+END

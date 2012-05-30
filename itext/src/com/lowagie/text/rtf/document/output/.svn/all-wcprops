@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5377/trunk/itext/src/com/lowagie/text/rtf/document/output
+END
+RtfMemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/rtf/document/output/RtfMemoryCache.java
+END
+RtfDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/rtf/document/output/RtfDataCache.java
+END
+RtfDiskCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1160/trunk/itext/src/com/lowagie/text/rtf/document/output/RtfDiskCache.java
+END

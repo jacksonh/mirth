@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5842/trunk/server/tests
+END
+test-hl7-subcomponents-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-subcomponents-input.txt
+END
+test-hl7-1636-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-1636-output.txt
+END
+test-hl7-single-segment-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-single-segment-input.xml
+END
+test-hl7-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-input.txt
+END
+test-hl7-batch-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-batch-output.xml
+END
+test-hl7-single-field-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-single-field-output.txt
+END
+test-hl7-repetitions-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-repetitions-input.txt
+END
+test-hl7-missing-subcomponents-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-subcomponents-output.txt
+END
+test-hl7-missing-components-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-components-input.xml
+END
+test-hl7-whitespace-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-whitespace-output.xml
+END
+test-hl7-missing-fields-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-fields-output.txt
+END
+test-hl7-1636-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-1636-input.xml
+END
+test-hl7-subcomponents-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-subcomponents-output.xml
+END
+test-hl7-batch-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-batch-input.txt
+END
+test-hl7-single-segment-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-single-segment-output.txt
+END
+test-hl7-single-field-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-single-field-input.xml
+END
+test-hl7-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-output.xml
+END
+test-hl7-repetitions-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-repetitions-output.xml
+END
+test-hl7-missing-subcomponents-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-subcomponents-input.xml
+END
+test-hl7-whitespace-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-whitespace-input.txt
+END
+test-hl7-missing-components-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-components-output.txt
+END
+test-hl7-missing-fields-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5842/trunk/server/tests/test-hl7-missing-fields-input.xml
+END
